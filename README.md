@@ -42,9 +42,9 @@ if applies Git Page that shows finalized project results:
 
 
 Heroku deployed page:
-    (to be added)
+    https://shrouded-taiga-74163.herokuapp.com/
 
-Heroku app:
+Heroku app id:
     shrouded-taiga-74163
 
 How to use, run or deploy a clone:
