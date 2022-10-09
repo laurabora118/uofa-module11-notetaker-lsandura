@@ -23,8 +23,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 Additional Expectations:
-n/a
-
+    Bonus Bonus - adding a DELETE route to the application using the following guideline: DELETE /api/notes/:id should receive a query parameter containing the id of a note to delete. In order to delete a note, you'll need to read all notes from the db.json file, remove the note with the given id property, and then rewrite the notes to the db.json file.
 
 Assignment Example 1 Picture:    
     ![TBD](assets/images/website1.jpg)
@@ -34,8 +33,12 @@ Git Repository link where finalzed project can be pulled:
     https://github.com/laurabora118/uofa-module11-notetaker-lsandura  
 
 
-Git Page that shows finalized project results:
+if applies Git Page that shows finalized project results:
     https://github.com/laurabora118/uofa-module11-notetaker-lsandura
+
+
+Heroku deployed page:
+    (to be added)
 
 
 How to use, run or deploy a clone:
@@ -43,8 +46,7 @@ How to use, run or deploy a clone:
 
 
 Video link of working app deployed: (if applicable)
-    (tbd fill in)
-
+    (not required)
 
 References:
     1 - Assignment criteria received in UofA assignments
