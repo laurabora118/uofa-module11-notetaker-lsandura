@@ -35,7 +35,7 @@ Git Repository link where finalzed project can be pulled:
 
 
 Git Page that shows finalized project results:
-    https://laurabora118.github.io/uofa-module11-notetaker-lsandura 
+    https://github.com/laurabora118/uofa-module11-notetaker-lsandura
 
 
 How to use, run or deploy a clone:
