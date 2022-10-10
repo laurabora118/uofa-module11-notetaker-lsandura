@@ -19,6 +19,7 @@
   </head>
 
   <body>
+    <div></div>
     <nav class="navbar navbar-dark bg-dark">
       <a class="navbar-brand" href="/">Note Taker </a>
       <div class="icons">
@@ -26,6 +27,8 @@
         <i class="fas fa-plus text-light new-note"></i>
       </div>
     </nav>
+    <form class="notesform">
+    <!-- notes saved on left side with the container and col-4 list container and the card -->
     <div class="container-fluid">
       <div class="row">
         <div class="col-4 list-container">
@@ -36,14 +39,15 @@
         <div class="col-8">
           <input
             class="note-title"
-            placeholder="Note Title"
+            placeholder="What is the title for your note?"
             maxlength="28"
             type="text"
           />
-          <textarea class="note-textarea" placeholder="Note Text"></textarea>
+          <textarea class="note-textarea" placeholder="Please write your note here"></textarea>
+        </form>
         </div>
       </div>
     </div>
-    <script src="/assets/js/index.js"></script>
+    <script src="../assets/scripts/notes.js"></script>
   </body>
 </html>
