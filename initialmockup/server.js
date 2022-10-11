@@ -2,7 +2,7 @@ const express = require('express');
 const path = require('path');
 //check if i need a clog for this project
 // const { clog } = require('./middleware/clog');
-const api = require('./routes/notesindex');
+const api = require('./initialmockup/routes/notesindex');
 
 
 const PORT = process.env.PORT || 3001;
