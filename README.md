@@ -50,13 +50,12 @@ Heroku deployed page (deployed to heroku using git push heroku main):
 How to use, run or deploy a clone:
     npm i to install
     node server.js to open local host
-    /notes route to see notes page
 
 Routes
     local server routes
     notes route http://localhost:3001/pages/notes.html 
     index route http://localhost:3001/index.html 
-    the * route http://localhost:3001/ or https://shrouded-taiga-74163.herokuapp.com/
+    the * route http://localhost:3001/ 
 
 
 Video link of working app deployed: (if applicable)
