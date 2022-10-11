@@ -1,10 +1,6 @@
 # uofa-module11-notetaker-lsandura
 Express.js Challenge: Note Taker Bootcamp Module completed by Laura Sandura
 
-//Your challenge is to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
-
-The application’s front end has already been created. It's your job to build the back end, connect the two, and then deploy the entire application to Heroku.
-
 Main Objective: 
 AS A small business owner
 I WANT to be able to write and save notes
@@ -35,32 +31,27 @@ Assignment Example 1 Picture:
     ![website note page](public/assets/images/website2.jpg)
     
 Git Repository link where finalzed project can be pulled:
-    https://github.com/laurabora118/uofa-module11-notetaker-lsandura  
+    [Git Repo link](https://github.com/laurabora118/uofa-module11-notetaker-lsandura)  
 
-
-Git page for static read me only due to use of heroku server:
-    https://github.com/laurabora118/uofa-module11-notetaker-lsandura
-
-
-Heroku deployed page (deployed to heroku using git push heroku main):
-    https://shrouded-taiga-74163.herokuapp.com/
+Git page (*not required but link is for static read me only due to use of heroku server for this project):
+    [github page read me](https://github.com/laurabora118/uofa-module11-notetaker-lsandura)
 
 Heroku App id:
     shrouded-taiga-74163
+
+Heroku deployed page (deployed to heroku using git push heroku main):
+    [heroku deployed page](https://shrouded-taiga-74163.herokuapp.com/)
     
 How to use, run or deploy a clone:
     npm i to install
     node server.js to open local host
+    /notes route to see notes page
 
 Video link of working app deployed: (if applicable)
-    (not required)
+    [not required]
 
 References:
     1 - Assignment criteria received in UofA assignments, starter code provided
-
-    2 -
-
-    3 -
 
 MIT License: 
     ![MIT License](./public/assets/images/mit.jpg)
