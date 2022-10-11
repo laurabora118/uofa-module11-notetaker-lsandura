@@ -34,13 +34,11 @@ Assignment Example 1 Picture:
     ![website home page](public/assets/images/website1.jpg)
     ![website note page](public/assets/images/website2.jpg)
     
-
-
 Git Repository link where finalzed project can be pulled:
     https://github.com/laurabora118/uofa-module11-notetaker-lsandura  
 
 
-if applies Git Page that shows finalized project results:
+Git page for static read me only due to use of heroku server:
     https://github.com/laurabora118/uofa-module11-notetaker-lsandura
 
 
