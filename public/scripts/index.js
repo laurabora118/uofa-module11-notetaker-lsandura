@@ -1,11 +1,5 @@
 const noteForm = document.getElementById('note-form');
-const notesContainer = document.getElementById('note-container');
-const fbBtn = document.getElementById('feedback-btn');
-
-fbBtn.addEventListener('click', (e) => {
-  e.preventDefault();
-  window.location.href = '/feedback';
-});
+// const notesContainer = document.getElementById('note-container');
 
 const createCard = (note) => {
   // Create card
@@ -33,8 +27,6 @@ const createCard = (note) => {
   cardEl.appendChild(cardHeaderEl);
   cardEl.appendChild(cardBodyEl);
 
-  // Append the card element to the notes container in the DOM
-  notesContainer.appendChild(cardEl);
 };
 
 // Get a list of existing notes from the server
@@ -140,8 +132,9 @@ const handleFormSubmit = (e) => {
   return submission.isValid;
 };
 
-// Listen for when the form is submitted
-noteForm.addEventListener('submit', handleFormSubmit);
+//NEED TO REWORK
+// Listen for when the form is submitted 
+// noteForm.addEventListener('submit', handleFormSubmit);
 
 //old working efforts
 // let noteTitle;

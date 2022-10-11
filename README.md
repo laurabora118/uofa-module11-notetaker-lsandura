@@ -52,5 +52,7 @@ Video link of working app deployed: (if applicable)
 References:
     1 - Assignment criteria received in UofA assignments, starter code provided
 
+    2 - stackoverflow how to call middleware and add root directory to prevent html error
+
 MIT License: 
     ![MIT License](./public/assets/images/mit.jpg)

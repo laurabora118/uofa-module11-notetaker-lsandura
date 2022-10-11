@@ -1,5 +1,5 @@
-// not needed example from main mini project.
-// // Custom middleware that logs out the type and path of each request to the server
+// not needed example from main mini project. was able to route to root when going back a page
+// Custom middleware that logs out the type and path of each request to the server
 // const clog = (req, res, next) => {
 //   const fgCyan = '\x1b[36m';
 //   switch (req.method) {
