@@ -1,4 +1,6 @@
-// helpers from mini lesson to use as guide
+// noted old effort out
+//example from a lesson example, needs to be writen for assignment
+// module.exports = { readFromFile, writeToFile, readAndAppend };
 const fs = require('fs');
 const util = require('util');
 
