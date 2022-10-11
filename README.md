@@ -26,8 +26,9 @@ Additional Expectations:
     *Bonus - adding a DELETE route to the application using the following guideline: DELETE /api/notes/:id should receive a query parameter containing the id of a note to delete. In order to delete a note, you'll need to read all notes from the db.json file, remove the note with the given id property, and then rewrite the notes to the db.json file.
 
 Assignment Example 1 Picture:    
-    ![website heroku deploy](public/assets/images/website1.jpg)
+    ![website heroku deploy defaul * page](public/assets/images/website1.jpg)
     ![website heroku deploy note page](public/assets/images/website2.jpg)
+    ![website heroku deploy index page](public/assets/images/website3.jpg)
     
 Git Repository link where finalzed project can be pulled:
     [Git Repo link](https://github.com/laurabora118/uofa-module11-notetaker-lsandura)  
@@ -41,6 +42,11 @@ Heroku App id:
 Heroku deployed page (deployed to heroku using git push heroku main):
     [heroku deployed page](https://shrouded-taiga-74163.herokuapp.com/)
     
+    heroku deployed routes
+    notes route  https://shrouded-taiga-74163.herokuapp.com/pages/notes.html
+    index route  https://shrouded-taiga-74163.herokuapp.com/index.html
+    the * route  https://shrouded-taiga-74163.herokuapp.com/
+    
 How to use, run or deploy a clone:
     npm i to install
     node server.js to open local host
@@ -48,14 +54,10 @@ How to use, run or deploy a clone:
 
 Routes
     local server routes
-    notes route http://localhost:3001/pages/notes.html or https://shrouded-taiga-74163.herokuapp.com/pages/notes.html
-    index route http://localhost:3001/index.html or https://shrouded-taiga-74163.herokuapp.com/index.html
+    notes route http://localhost:3001/pages/notes.html 
+    index route http://localhost:3001/index.html 
     the * route http://localhost:3001/ or https://shrouded-taiga-74163.herokuapp.com/
 
-    heroku deployed routes
-    notes route  https://shrouded-taiga-74163.herokuapp.com/pages/notes.html
-    index route  https://shrouded-taiga-74163.herokuapp.com/index.html
-    the * route  https://shrouded-taiga-74163.herokuapp.com/
 
 Video link of working app deployed: (if applicable)
     [not required]
