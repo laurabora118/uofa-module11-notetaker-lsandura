@@ -31,7 +31,9 @@ Additional Expectations:
     Bonus - adding a DELETE route to the application using the following guideline: DELETE /api/notes/:id should receive a query parameter containing the id of a note to delete. In order to delete a note, you'll need to read all notes from the db.json file, remove the note with the given id property, and then rewrite the notes to the db.json file.
 
 Assignment Example 1 Picture:    
-    ![website](public/assets/images/website1.jpg)
+    ![website home page](public/assets/images/website1.jpg)
+    ![website note page](public/assets/images/website2.jpg)
+    
 
 
 Git Repository link where finalzed project can be pulled:
@@ -42,14 +44,12 @@ if applies Git Page that shows finalized project results:
     https://github.com/laurabora118/uofa-module11-notetaker-lsandura
 
 
-Heroku deployed page:
+Heroku deployed page (deployed to heroku using git push heroku main):
     https://shrouded-taiga-74163.herokuapp.com/
 
-Heroku app id:
+Heroku App id:
     shrouded-taiga-74163
     
-    ![Heroku Info](./public/assets/images/herokulinkinformation.jpg)
-
 How to use, run or deploy a clone:
     npm i to install
     node server.js to open local host
