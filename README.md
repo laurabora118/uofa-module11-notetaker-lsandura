@@ -31,7 +31,7 @@ Additional Expectations:
     Bonus - adding a DELETE route to the application using the following guideline: DELETE /api/notes/:id should receive a query parameter containing the id of a note to delete. In order to delete a note, you'll need to read all notes from the db.json file, remove the note with the given id property, and then rewrite the notes to the db.json file.
 
 Assignment Example 1 Picture:    
-    ![TBD](assets/images/website1.jpg)
+    ![TBD](public/assets/images/website1.jpg)
 
 
 
@@ -50,18 +50,18 @@ Heroku app id:
     shrouded-taiga-74163
 
 How to use, run or deploy a clone:
-   
-
+    npm i to install
+    node server.js to open local host
 
 Video link of working app deployed: (if applicable)
     (not required)
 
 References:
-    1 - Assignment criteria received in UofA assignments
+    1 - Assignment criteria received in UofA assignments, starter code provided
 
     2 -
 
     3 -
 
 MIT License: 
-    ![MIT License](./Develop/public/assets/images/mit.jpg)
+    ![MIT License](./public/assets/images/mit.jpg)

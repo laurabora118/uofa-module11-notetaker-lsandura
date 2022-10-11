@@ -1,0 +1,25 @@
+{
+  "name": "uofa-module11-notetaker-lsandura",
+  "version": "1.0.0",
+  "description": "Express.js Challenge: Note Taker Bootcamp Module completed by Laura Sandura",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurabora118/uofa-module11-notetaker-lsandura.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "bugs": {
+    "url": "https://github.com/laurabora118/uofa-module11-notetaker-lsandura/issues"
+  },
+  "homepage": "https://github.com/laurabora118/uofa-module11-notetaker-lsandura#readme"
+}
+
+
