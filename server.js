@@ -11,4 +11,9 @@ app.use(express.static('public'));
 app.get('/', (req, res) =>
     res.sendFile(path.join(__dirname, '/public/index.html')));
 
+//for notes page to display and to deploy to heroku
+app.get('/notes', (req, res) =>
+  res.sendFile(path.join(__dirname, '/public/pages/notes.html'))
+);
+
 app.listen(PORT, () => console.log(`app listening on port ${PORT}`));
